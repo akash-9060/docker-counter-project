@@ -145,13 +145,13 @@ When you access `http://localhost:5002` on your host, you're reaching port 5002 
 
 1. Use the following command in the terminal to clone this repository.
 
-`https://github.com/Chintansgowda/docker-counter-project.git`
+`https://github.com/akash-9060/docker-counter-project.git`
 
 <br>
 
 Navigate into the counter directory using the following command:
 
-`cd docker-counter-project/counter`
+`cd docker-counter-project/`
 
 <br>
 
